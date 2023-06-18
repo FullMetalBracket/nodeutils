@@ -1,4 +1,4 @@
-# Directory Zipper
+# Node Utilities
 
 This is a Node.js script for zipping the contents of a directory, excluding the files and directories specified in a .gitignore file.
 
