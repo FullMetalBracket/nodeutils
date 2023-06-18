@@ -8,11 +8,13 @@ Before using this script, make sure to install the necessary dependencies.
 
 ```bash
 npm install archiver
+```
 
 ## Usage
 
 ```bash
-node filesystem.js
+node filesystem.js # This will zip the contents of the given directory, excluding the files and directories specified in the .gitignore file.
+```
 
 ## License
 LICENSE.txt

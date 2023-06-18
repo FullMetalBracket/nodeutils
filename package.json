@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "archiver": "^5.3.1"
+    "archiver": "^5.3.1",
+    "glob": "^10.2.7",
+    "ignore": "^5.2.4"
   }
 }
